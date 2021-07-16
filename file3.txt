@@ -12,6 +12,11 @@ push origin master ...> when the remote repo already linked
 git log....> history of commits
 git diff <filename>
 
+path:/	octocat filename:readme path:/ matches readme files with the word "octocat" that are located at the root level of a repository.
+path:DIRECTORY	form path:cgi-bin language:perl matches Perl files with the word "form" in a cgi-bin directory, or in any of its subdirectories.
+path:PATH/TO/DIRECTORY	console path:app/public language:javascript matches JavaScript files with the word "console" in an app/public directory,
+ or in any of its subdirectories (even if they reside in app/public/js/form-validators).
+
 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -21,3 +26,4 @@ ath:/	octocat filename:readme path:/ matches readme files with the word "octocat
 path:DIRECTORY	form path:cgi-bin language:perl matches Perl files with the word "form" in a cgi-bin directory, or in any of its subdirectories.
 path:PATH/TO/DIRECTORY	console path:app/public language:javascript matches JavaScript files with the word "console" in an app/public directory, 
 or in any of its subdirectories (even if they reside in app/public/js/form-validators).
+>>>>>>> 073b0038bb6346d8d967159ae772c75705d9b5ca
