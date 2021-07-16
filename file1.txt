@@ -5,7 +5,7 @@ git config ...> global user.name "ABCD" ...> specify username
 git config ...> global user.email "xxxxx"
 git config user.name "ABCD"
 git config user.email "xxxxx"
-git add
+git add * /git add [file name]...> * adds all modiied files while file name adds only file specified.
 git commit -m ""
 
 git log....> history of commits
