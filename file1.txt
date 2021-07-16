@@ -8,5 +8,5 @@ git config user.email "xxxxx"
 git add
 git commit -m ""
 
-git log
+git log....> history of commits
 git diff <filename>
