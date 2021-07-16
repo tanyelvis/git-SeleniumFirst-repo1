@@ -7,6 +7,7 @@ git config user.name "ABCD"
 git config user.email "xxxxx"
 git add * /git add [file name]...> * adds all modiied files while file name adds only file specified.
 git commit -m ""
+push origin master ...> when the remote repo already linked
 
 git log....> history of commits
 git diff <filename>
